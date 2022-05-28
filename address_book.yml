@@ -1,0 +1,11 @@
+---
+- family-name: Last
+  first-name: First
+  address: 123 Thing Place
+  city: Cityville
+  state: AL
+  zip: "12345"
+  home-phone: "800-123-4567"
+  notes: ""
+  entry: "2022-05-01"
+  last-update: "2022-05-28"

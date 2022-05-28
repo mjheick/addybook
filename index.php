@@ -106,6 +106,7 @@ if (!is_null($id))
 <html>
 	<head>
 		<title>Address Book</title>
+		<meta name='viewport' content='width=device-width, initial-scale=1'>
 		<style>
 /* Invert colors */
 body {
